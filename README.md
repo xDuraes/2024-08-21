@@ -1,3 +1,4 @@
 # 2024-08-21
 atv do dia
 SCRIPT PARA TROCAR A PRIMEIRA E A SEGUNDA COLUNA DO Managerszip
+aaa

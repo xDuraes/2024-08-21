@@ -1,0 +1,6 @@
+Para enviar um arquivo é necessário ter criado o arquivo e dar "git add <arquivo>" ou "git add .",
+a partir disso todos os arquivos selecionados vão ser enviados para a área de commit, o que implica
+que eles estão preparados para ser enviados ao GitHub. Após isso, digitaremos o comando 
+'git commit -m "<nome/modificação do arquivo>"', isso coloca todos os arquivos na área de envio.
+Para finalizar, digitaremos o comando "git push" que após a seleção feita pelo 'git add' e pelo 
+'git commit' enviará todas as alterações para o GitHub.
